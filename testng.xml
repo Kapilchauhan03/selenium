@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab115.java"><classes><class name="com.kapil.Selenium_Practice.ex_Selenium_130724.lab115"><methods><include name="VWO"/></methods></class></classes></test></suite>
