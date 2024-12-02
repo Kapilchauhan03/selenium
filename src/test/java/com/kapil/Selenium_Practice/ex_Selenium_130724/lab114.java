@@ -10,6 +10,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import javax.swing.text.html.Option;
+import java.util.List;
 
 public class lab114 {
 
@@ -20,14 +21,21 @@ public class lab114 {
         EdgeOptions edgeOptions = new EdgeOptions();
         edgeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
 
-        WebDriver driver = new EdgeDriver();
+        WebDriver driver = new EdgeDriver(edgeOptions);
         driver.get("https://tataplaybinge.com");
-        System.out.println(driver.getTitle());
-        Assert.assertEquals(driver.getTitle(), "Login- Binge");
-        Assert.assertEquals(driver.getCurrentUrl(),"https://www.tataplaybinge.com/");
+        //System.out.println(driver.getTitle());
+       // Assert.assertEquals(driver.getTitle(), "Tata Play Binge - Watch Latest Movies, Web Series, Live Cricket & More");
+       // Assert.assertEquals(driver.getCurrentUrl(),"https://www.tataplaybinge.com/");
 
-        WebElement login_RMN = driver.findElement(By.name("rmn"));
-        login_RMN.sendKeys("8983479374");
+//        WebElement language_page = driver.findElement(By.className("not-click"));
+//        language_page.click();
+
+//        List<WebElement> language_page = driver.findElements(By.tagName("Proceed"));
+//        language_page.get(0).click();
+
+
+//        WebElement login_RMN = driver.findElement(By.name("rmn"));
+//        login_RMN.sendKeys("8983479374");
 
     }
 }

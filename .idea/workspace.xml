@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e7d7d1a-310a-418d-900d-11fa1fc804e8" name="Changes" comment="Initial commit">
+    <list default="true" id="9e7d7d1a-310a-418d-900d-11fa1fc804e8" name="Changes" comment="Update config file">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/lab118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/testnglab112.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab113.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_selenium_160724/lab117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_selenium_160724/lab117.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +42,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.lab113.executor": "Run",
+    "Application.lab118.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "TestNG.B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/testnglab112.xml.executor": "Run",
     "TestNG.lab110.executor": "Run",
     "TestNG.lab110.vwologin.executor": "Run",
     "TestNG.lab111.vwologin.executor": "Run",
     "TestNG.lab112.vwologin.executor": "Run",
+    "TestNG.lab114.BingeLogin (1).executor": "Run",
     "TestNG.lab114.BingeLogin.executor": "Run",
+    "TestNG.lab114.executor": "Run",
     "TestNG.lab115.BingeLogin (1).executor": "Run",
     "TestNG.lab115.BingeLogin.executor": "Run",
     "TestNG.lab115.VWO (1).executor": "Run",
@@ -52,20 +62,48 @@
     "TestNG.lab115.executor": "Run",
     "TestNG.lab116.VWOlogin_PositiveTC.executor": "Run",
     "TestNG.lab117.CURAHelathcare.executor": "Run",
+    "TestNG.lab117.executor": "Run",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\Java Project\Selenium_Project\src\test\java\com\kapil\Selenium_Practice\ex_Selenium_110724" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kapil.Selenium_Practice.ex_Selenium_130724" />
       <recent name="com.kapil.Selenium_Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.lab117.CURAHelathcare">
-    <configuration name="lab115" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.lab114.BingeLogin (1)">
+    <configuration name="lab113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab113" />
+      <module name="Selenium_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_Selenium_130724.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/testnglab112.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/testnglab112.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab114" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Project" />
       <extension name="coverage">
         <pattern>
@@ -74,7 +112,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab115" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab114" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -82,7 +120,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab115.VWO (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="lab114.BingeLogin (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Project" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +129,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab115" />
-      <option name="METHOD_NAME" value="VWO" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab114" />
+      <option name="METHOD_NAME" value="BingeLogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -100,7 +138,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab115.VWO" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="lab114.BingeLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Project" />
       <extension name="coverage">
         <pattern>
@@ -109,44 +147,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab115" />
-      <option name="METHOD_NAME" value="VWO" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab116.VWOlogin_PositiveTC" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_Selenium_130724.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab116" />
-      <option name="METHOD_NAME" value="VWOlogin_PositiveTC" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab117.CURAHelathcare" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_selenium_160724.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_selenium_160724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_selenium_160724.lab117" />
-      <option name="METHOD_NAME" value="CURAHelathcare" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab114" />
+      <option name="METHOD_NAME" value="BingeLogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -156,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.lab117.CURAHelathcare" />
-        <item itemvalue="TestNG.lab116.VWOlogin_PositiveTC" />
-        <item itemvalue="TestNG.lab115" />
-        <item itemvalue="TestNG.lab115.VWO" />
-        <item itemvalue="TestNG.lab115.VWO (1)" />
+        <item itemvalue="TestNG.lab114.BingeLogin (1)" />
+        <item itemvalue="TestNG.lab114.BingeLogin" />
+        <item itemvalue="TestNG.lab114" />
+        <item itemvalue="Application.lab113" />
+        <item itemvalue="TestNG.B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/testnglab112.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731168300642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update config file">
+      <option name="closed" value="true" />
+      <created>1731169036814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731169036814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +207,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Update config file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update config file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
