@@ -30,6 +30,13 @@ public class VwoLogin {
         WebElement Signin_Button = driver.findElement(By.id("js-login-btn"));
         Signin_Button.click();
 
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.quit();
+
 
     }
 }
