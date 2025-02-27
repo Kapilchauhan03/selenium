@@ -46,7 +46,6 @@ public class lab113 {
         buttonList.get(0).click();
 
 
-
         Thread.sleep(5000);
         driver.quit();
     }

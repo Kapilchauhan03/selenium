@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e7d7d1a-310a-418d-900d-11fa1fc804e8" name="Changes" comment="ProjectHW">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab120_selectBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab121_JS_Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab122_JS_confimration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab123_JS_Prompt.java" afterDir="false" />
+    <list default="true" id="9e7d7d1a-310a-418d-900d-11fa1fc804e8" name="Changes" comment="Selenium push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_selenium_160724/lab124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_selenium_180724/lab125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_selenium_180724/lab126.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/Project_Work/VwoLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/Project_Work/VwoLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/Project_Work/idrive360_login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/Project_Work/idrive360_login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,47 +49,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.lab113.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab118.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;TestNG.B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/testnglab112.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Herokuapp.Herokuapp.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.VwoLogin.VWOlogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.idrive360_login.idrive.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab110.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab110.vwologin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab111.vwologin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab112.vwologin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab114.BingeLogin (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab114.BingeLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab114.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab115.BingeLogin (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab115.BingeLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab115.VWO (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab115.VWO.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab115.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab116.VWOlogin_PositiveTC.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab117.CURAHelathcare.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab117.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab118.appVWO.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab118.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab119.appVWO.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab120_selectBox.verifyselectBox.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab121_JS_Alerts.verifyJSAlerts.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab122_JS_confimration.verifyJSAlerts.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.lab123_JS_Prompt.verifyJSAlerts.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.lab113.executor": "Run",
+    "Application.lab118.executor": "Run",
+    "Application.lab125.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "TestNG.B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/testnglab112.xml.executor": "Run",
+    "TestNG.Herokuapp.Herokuapp.executor": "Run",
+    "TestNG.VwoLogin.VWOlogin.executor": "Run",
+    "TestNG.idrive360_login.idrive.executor": "Run",
+    "TestNG.lab110.executor": "Run",
+    "TestNG.lab110.vwologin.executor": "Run",
+    "TestNG.lab111.vwologin.executor": "Run",
+    "TestNG.lab112.vwologin.executor": "Run",
+    "TestNG.lab114.BingeLogin (1).executor": "Run",
+    "TestNG.lab114.BingeLogin.executor": "Run",
+    "TestNG.lab114.executor": "Run",
+    "TestNG.lab115.BingeLogin (1).executor": "Run",
+    "TestNG.lab115.BingeLogin.executor": "Run",
+    "TestNG.lab115.VWO (1).executor": "Run",
+    "TestNG.lab115.VWO.executor": "Run",
+    "TestNG.lab115.executor": "Run",
+    "TestNG.lab116.VWOlogin_PositiveTC.executor": "Run",
+    "TestNG.lab117.CURAHelathcare.executor": "Run",
+    "TestNG.lab117.executor": "Run",
+    "TestNG.lab118.appVWO.executor": "Run",
+    "TestNG.lab118.executor": "Run",
+    "TestNG.lab119.appVWO.executor": "Run",
+    "TestNG.lab120_selectBox.verifyselectBox.executor": "Run",
+    "TestNG.lab121_JS_Alerts.verifyJSAlerts.executor": "Run",
+    "TestNG.lab122_JS_confimration.verifyJSAlerts.executor": "Run",
+    "TestNG.lab123_JS_Prompt.verifyJSAlerts.executor": "Run",
+    "TestNG.lab124.executor": "Run",
+    "TestNG.lab126.flipkart.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="B:\Java Project\Selenium_Project\src\test\java\com\kapil\Selenium_Practice\ex_Selenium_110724" />
@@ -107,7 +103,7 @@
       <recent name="com.kapil.Selenium_Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lab113">
+  <component name="RunManager" selected="TestNG.lab126.flipkart">
     <configuration name="lab113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_130724.lab113" />
       <module name="Selenium_Project" />
@@ -134,53 +130,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab121_JS_Alerts.verifyJSAlerts" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="lab125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_selenium_180724.lab125" />
       <module name="Selenium_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_Selenium_200724.*" />
+          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_selenium_180724.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_200724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_200724.lab121_JS_Alerts" />
-      <option name="METHOD_NAME" value="verifyJSAlerts" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab124" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_selenium_160724.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_selenium_160724" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_selenium_160724.lab124" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab122_JS_confimration.verifyJSAlerts" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="lab126.flipkart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_Selenium_200724.*" />
+          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_selenium_180724.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_200724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_200724.lab122_JS_confimration" />
-      <option name="METHOD_NAME" value="verifyJSAlerts" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab123_JS_Prompt.verifyJSAlerts" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_Selenium_200724.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_200724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_200724.lab123_JS_Prompt" />
-      <option name="METHOD_NAME" value="verifyJSAlerts" />
+      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_selenium_180724" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_selenium_180724.lab126" />
+      <option name="METHOD_NAME" value="flipkart" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.lab126.flipkart" />
+        <item itemvalue="Application.lab125" />
+        <item itemvalue="TestNG.lab124" />
         <item itemvalue="Application.lab113" />
         <item itemvalue="Application.lab118" />
-        <item itemvalue="TestNG.lab123_JS_Prompt.verifyJSAlerts" />
-        <item itemvalue="TestNG.lab122_JS_confimration.verifyJSAlerts" />
-        <item itemvalue="TestNG.lab121_JS_Alerts.verifyJSAlerts" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733167374072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Selenium push">
+      <option name="closed" value="true" />
+      <created>1740322417873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740322417873</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +255,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Update config file" />
     <MESSAGE value="ProjectHW" />
-    <option name="LAST_COMMIT_MESSAGE" value="ProjectHW" />
+    <MESSAGE value="Selenium push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -280,6 +279,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_selenium_180724/lab125.java</url>
+          <line>13</line>
+          <properties class="com.kapil.Selenium_Practice.ex_selenium_180724.lab125" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
