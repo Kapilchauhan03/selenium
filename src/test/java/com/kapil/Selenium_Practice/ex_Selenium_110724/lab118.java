@@ -9,6 +9,7 @@ public class lab118 {
         EdgeDriver driver = new EdgeDriver();
         // driver.get("https://tataplaybinge.com");
         driver.navigate().to("https://tataplaybinge.com");
+        driver.navigate().back();
         System.out.println(driver.getCurrentUrl());
         System.out.println(driver.getTitle());
         System.out.println(driver.getPageSource());

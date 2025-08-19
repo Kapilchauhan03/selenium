@@ -28,9 +28,10 @@ public class lab113 {
        // driver.manage().window().minimize(); will minimize the window
         System.out.println(driver.getTitle());
 
-        driver.findElement(By.id("login-username")).sendKeys("kapil@gmail.com");
-        driver.findElement(By.id("login-password")).sendKeys("qwqwqwq");
-        driver.findElement(By.id("js-login-btn")).click();
+       driver.findElement(By.id("login-username")).sendKeys("kapil@gmail.com");
+       driver.findElement(By.id("login-password")).sendKeys("qwqwqwq");
+        //driver.findElement(By.xpath("//button[@data-qa=\"sibequkica\"]")).click();
+         driver.findElement(By.id("js-login-btn")).click();
 
 
         WebElement error_msg = driver.findElement(By.className("notification-box-description"));

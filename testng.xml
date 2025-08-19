@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab116.java"><classes><class name="com.kapil.Selenium_Practice.ex_Selenium_130724.lab116"><methods><include name="VWOlogin_PositiveTC"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Single Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="B:/Java Project/Selenium_Project/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab135.java">
+        <classes>
+            <class name="com.kapil.Selenium_Practice.ex_Selenium_200724.lab135">
+                <methods>
+                    <include name="VWOlogin_PositiveTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
