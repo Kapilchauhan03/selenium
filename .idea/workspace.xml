@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e7d7d1a-310a-418d-900d-11fa1fc804e8" name="Changes" comment="Selenium push2">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/SHADOwDOM1/lab137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/SHADOwDOM1/lab138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab127Explicit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab128_Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab129_webTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_200724/lab135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_230724/lab130_SVG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_230724/lab131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_230724/lab132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_230724/lab136.java" afterDir="false" />
+    <list default="true" id="9e7d7d1a-310a-418d-900d-11fa1fc804e8" name="Changes" comment="Selenium push6">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/SHADOwDOM1/lab139Capscharacter_enter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/SHADOwDOM1/lab140aClick_Right_CLICK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/lab118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_110724/lab118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kapil/Selenium_Practice/ex_Selenium_130724/lab113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +103,9 @@
     "TestNG.lab137.executor": "Run",
     "TestNG.lab137.shadowDom.executor": "Debug",
     "TestNG.lab138.executor": "Run",
+    "TestNG.lab139Capscharacter_enter.capscharacterenter.executor": "Run",
+    "TestNG.lab139Capscharacter_enter.executor": "Run",
+    "TestNG.lab140aClick_Right_CLICK.executor": "Run",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -135,41 +124,7 @@
       <recent name="com.kapil.Selenium_Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.lab137">
-    <configuration name="lab135" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_Selenium_200724.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_200724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_200724.lab135" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab136" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kapil.Selenium_Practice.ex_Selenium_230724.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_230724" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.ex_Selenium_230724.lab136" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.lab140aClick_Right_CLICK">
     <configuration name="lab137" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Project" />
       <extension name="coverage">
@@ -187,7 +142,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab137.shadowDom" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="lab139Capscharacter_enter" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Project" />
       <extension name="coverage">
         <pattern>
@@ -196,8 +151,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1.lab137" />
-      <option name="METHOD_NAME" value="shadowDom" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1.lab139Capscharacter_enter" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab139Capscharacter_enter.capscharacterenter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kapil.Selenium_Practice.SHADOwDOM1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1.lab139Capscharacter_enter" />
+      <option name="METHOD_NAME" value="capscharacterenter" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -205,7 +177,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab138" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="lab140aClick_Right_CLICK" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Project" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +186,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1" />
-      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1.lab138" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1.lab140aClick_Right_CLICK" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab140aClick_Right_CLICK.capscharacterenter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kapil.Selenium_Practice.SHADOwDOM1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1" />
+      <option name="MAIN_CLASS_NAME" value="com.kapil.Selenium_Practice.SHADOwDOM1.lab140aClick_Right_CLICK" />
+      <option name="METHOD_NAME" value="capscharacterenter" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -224,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.lab140aClick_Right_CLICK" />
+        <item itemvalue="TestNG.lab140aClick_Right_CLICK.capscharacterenter" />
+        <item itemvalue="TestNG.lab139Capscharacter_enter" />
+        <item itemvalue="TestNG.lab139Capscharacter_enter.capscharacterenter" />
         <item itemvalue="TestNG.lab137" />
-        <item itemvalue="TestNG.lab138" />
-        <item itemvalue="TestNG.lab137.shadowDom" />
-        <item itemvalue="TestNG.lab136" />
-        <item itemvalue="TestNG.lab135" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740683173422</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Selenium push6">
+      <option name="closed" value="true" />
+      <created>1755586055087</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755586055087</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,7 +307,8 @@
     <MESSAGE value="ProjectHW" />
     <MESSAGE value="Selenium push" />
     <MESSAGE value="Selenium push2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium push2" />
+    <MESSAGE value="Selenium push6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium push6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
